@@ -6,7 +6,7 @@ https://gosiacodes.github.io/ToDo-List-Firebase-TypeScript/
 
 ## 📌 _How does the application work?_
 
-You can add task / todo to list and mark it when it's done by clicking on it.
+You can add task / todo to list and mark it when it's done by clicking on text.
 
 You can also unmark task as done or delete it from the list. 
 
